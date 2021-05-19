@@ -64,7 +64,7 @@ header li:last-child{
         flex-direction: column;
     }
 
-    header{
+    header img{
         margin-bottom: 15px;
     }
 }
